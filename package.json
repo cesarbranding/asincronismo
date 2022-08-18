@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/cesarbranding/asincronismo/issues"
   },
-  "homepage": "https://github.com/cesarbranding/asincronismo#readme"
+  "homepage": "https://github.com/cesarbranding/asincronismo#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
